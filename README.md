@@ -37,4 +37,4 @@
 12. **Did they use a visualization to compare their model to the baseline model?**  
     Yes, if a chart compares the selected model's performance with a baseline model. Otherwise, select No.
 
-**GitHub Repository URL:** [Paste your publicly accessible GitHub repository link here]
+
